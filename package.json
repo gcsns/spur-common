@@ -52,7 +52,7 @@
     "lodash.some": "^4.6.0",
     "lodash.union": "^4.6.0",
     "lodash.uniq": "^4.5.0",
-    "spur-config": "^2.0.0",
+    "spur-config": "gcsns/spur-config#2.0.0-SNYK-JS-MINIMIST-559764",
     "spur-errors": "^1.0.1",
     "spur-ioc": "^1.1.1",
     "superagent": "^3.8.3"
